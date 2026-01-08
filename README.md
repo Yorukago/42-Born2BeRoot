@@ -8,8 +8,8 @@ This project involves setting up a **Debian** (or Rocky Linux) server on a Virtu
 ## Configuration
 | Feature | Implementation |
 | :--- | :--- |
-| **Operating System** | Debian 12 (Bookworm) |
-| **Partitioning** | LVM with LUKS Encryption |
+| **Operating System** | Debian |
+| **Partitioning** | LVMs |
 | **SSH Port** | 4242 |
 | **Firewall** | UFW (Uncomplicated Firewall) |
 | **User Management** | Password policy & Sudoer groups |
