@@ -1,6 +1,6 @@
 # Born2beroot
 
-> A 42 Network project focused on System Administration, Virtualization, and Security.
+A project focused on System Administration, Virtualization, and Security.
 
 ---
 
