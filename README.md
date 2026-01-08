@@ -3,7 +3,7 @@
 A project focused on System Administration, Virtualization, and Security.
 
 ## Overview
-This project involves setting up a **Debian** (or Rocky Linux) server on a Virtual Machine. The goal is to implement strict security rules, manage users/groups, and configure a custom monitoring script—all while following the principles of **LVM** (Logical Volume Management) and **Sudo** policies.
+This project involves setting up a **Debian** (or Rocky Linux) server on a Virtual Machine. The goal is to implement strict security rules, manage users/groups and configure a custom monitoring script—all while following the principles of **LVM** (Logical Volume Management) and **Sudo** policies.
 
 ## Configuration
 | Feature | Implementation |
