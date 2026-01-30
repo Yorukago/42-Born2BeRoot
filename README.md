@@ -47,16 +47,16 @@ The `monitoring.sh` script displays system info every 10 minutes on all terminal
 
 ---
 
-## 🌐 Bonus: LLMP Stack & WordPress
+## Bonus: LLMP Stack & WordPress
 I completed the bonus part by setting up a fully functional web server environment!
 
-### 🏗️ Services Implemented
+### Services Implemented
 * **Lighttpd:** A lightweight, high-performance web server.
 * **MariaDB:** A robust relational database management system for WordPress data.
 * **PHP:** Processors for dynamic content (fastcgi).
 * **WordPress:** A self-hosted CMS site running on the server.
 
-### 🔧 Bonus Commands
+### Bonus Commands
 | Service | Check Status |
 | :--- | :--- |
 | **Web Server** | `sudo systemctl status lighttpd` |
